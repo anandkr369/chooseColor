@@ -52,7 +52,12 @@ Make sure you have Node.js and npm installed on your machine.
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
 
+### Deployed Link
 
+``` bash
+        https://choose-color-sigma.vercel.app/
+
+    ```
 
 
 This README provides a comprehensive guide on how to use your Color Generator application, including installation instructions, usage guidelines, technologies used, and more. Adjust it further based on additional features or specifics of your application as needed.
