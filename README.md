@@ -54,7 +54,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 ### Deployed Link
 
-``` bash
+    ``` bash
         https://choose-color-sigma.vercel.app/
 
     ```
