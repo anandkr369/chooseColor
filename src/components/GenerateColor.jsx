@@ -38,7 +38,7 @@ const GenerateColor = () => {
 
     return (
         <div style={{ maxWidth: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-            <h1>GenerateColor</h1>
+            <h1>Choose Unlimited Colors</h1>
             <button style={{ marginBottom: '20px', padding: '8px 15px', fontSize: '14px', borderRadius: '5px', backgroundColor: '#007BFF', color: 'white', border: 'none', cursor: 'pointer' }} onClick={handleColor}>Generate Color</button>
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '20px' }}>
                 {color.map((item, index) => (
